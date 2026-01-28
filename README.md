@@ -7,4 +7,4 @@ ZMK's layout
 
 ## Video
 
-https://youtu.be/_EqjpzDsPYo
+[https://youtu.be/_EqjpzDsPYo](https://youtu.be/_EqjpzDsPYo?si=_qr5E0w_k_xVd9JT)
