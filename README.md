@@ -13,7 +13,7 @@ Video showing and talking about the keyboard and how this is made
 [https://youtu.be/_EqjpzDsPYo](https://youtu.be/_EqjpzDsPYo?si=_qr5E0w_k_xVd9JT)
 
 ## Wiring
-i took this images from another keyboard called [Cygnus](https://github.com/juhakaup/keyboards/tree/main/Cygnus%20v1.0) but the default wiring for 5 cols and 4 rows keyboard
+i took this images from another keyboard called [Cygnus](https://github.com/juhakaup/keyboards/tree/main/Cygnus%20v1.0) but its the default wiring for 5 cols and 4 rows keyboard
 
 <img width="1938" height="996" alt="image" src="https://github.com/user-attachments/assets/e348b510-a801-4461-8ebe-be7b11b74659" />
 <img width="1938" height="996" alt="image" src="https://github.com/user-attachments/assets/59112935-5018-4254-a1c8-80b7e12cf4a1" />
