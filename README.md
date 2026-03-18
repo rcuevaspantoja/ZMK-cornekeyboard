@@ -3,8 +3,9 @@ This keyboard layout is made with Spanish / English in mind and confortable to u
 <img width="355" height="51" alt="image" src="https://github.com/user-attachments/assets/9dcff140-d56a-48e7-a12a-969bcb0974a5" />
 
 ## Video
-Video showing and talking about the keyboard and how this is made
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_EqjpzDsPYo?si=HfSAGOnXQx55tiAi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=_EqjpzDsPYo">
+  <img src="https://img.youtube.com/vi/_EqjpzDsPYo/maxresdefault.jpg" width="600"/>
+</a>
 
 ## ZMK's layout
 <img width="1109" height="416" alt="image" src="https://github.com/user-attachments/assets/78ba6e75-0619-41dd-8cd0-2d1f4e86d2e2" />
