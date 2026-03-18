@@ -3,7 +3,7 @@ This keyboard layout is made with Spanish / English in mind and confortable to u
 <img width="355" height="51" alt="image" src="https://github.com/user-attachments/assets/9dcff140-d56a-48e7-a12a-969bcb0974a5" />
 
 ## Video
-Click me ⬇️
+Click me ⬇️ \n
 <a href="https://www.youtube.com/watch?v=_EqjpzDsPYo">
   <img src="https://img.youtube.com/vi/_EqjpzDsPYo/maxresdefault.jpg" width="600"/>
 </a>
